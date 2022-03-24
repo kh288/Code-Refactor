@@ -1,9 +1,13 @@
-# Code-Refactor
+# Code Refactor
 
-Added an ID for "Search Engine Optimization" div tag so the link works again
+Went through the netire page and cleaned up a couple things under the hood:
 
-Added Alt text for images
+<ul>
+<li>Fixed the "Search Engine Optimization" link not working</li>
 
-Added replaced certain div tags with appropriate descriptors: header, nav, aside, article, and footer tags
+<li>Added Alt text for images</li>
 
-Added a id descriptor for tags as well: header, nav, aside, article, and footer tags
+<li>Added HTML Semantics to the page</li>
+
+<li>Cleaned combined some redundent CSS Tags</li>
+</ul>
