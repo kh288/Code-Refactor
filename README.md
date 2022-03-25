@@ -1,17 +1,14 @@
 # Code Refactor
 
-<<<<<<< HEAD
 This project's focus is on a refactor of the entire HTML and CSS pages and clean up the following things:
-=======
+
 Went through the entire page and cleaned up a couple things under the hood:
->>>>>>> c159d32cf5d3d32cb41d890091c82640747c4c57
 
 <ul>
 <li>Fix of the "Search Engine Optimization" link not working</li>
 
 <li>Alt text for images</li>
 
-<<<<<<< HEAD
 <li>HTML semantics tags</li>
 
 <li>Consolidate CSS tags</li>
@@ -19,11 +16,10 @@ Went through the entire page and cleaned up a couple things under the hood:
 <li>Deployed onto GitHub and made live through pages</li>
 
 <li>Add appropriate comments for each section</li>
-=======
+
 <li>Added HTML semantics to the page</li>
 
 <li>Cleaned combined some redundent CSS tags</li>
->>>>>>> c159d32cf5d3d32cb41d890091c82640747c4c57
 </ul>
 <br/>
 
